@@ -1,6 +1,6 @@
 <h1 align="center">Controle Financeiro com React JS e Armazenamento no Local Storage</h1>
 
-## 🚧 Status do Projeto
+## 🚧 Status do Projeto 🚧 
 
 Este projeto ainda está em desenvolvimento.
 
