@@ -1,10 +1,16 @@
 
+import Header from "./components";
+import GlobalStyle from "./style/global";
 
-function App() {
-
+const App = () => {
   return (
-    <div>Hello word</div>
+    <>
+
+      <Header />
+      <GlobalStyle />
+
+    </>
   )
 }
 
-export default App
+export default App;
