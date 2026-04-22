@@ -1,5 +1,7 @@
 
 import Header from "./components";
+import Form from "./components/Form";
+import Resume from "./components/Resume";
 import GlobalStyle from "./style/global";
 
 const App = () => {
@@ -7,6 +9,8 @@ const App = () => {
     <>
 
       <Header />
+      <Resume />
+      <Form />
       <GlobalStyle />
 
     </>
