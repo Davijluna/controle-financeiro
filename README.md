@@ -6,6 +6,8 @@ Este projeto ainda está em desenvolvimento.
 
 Funcionalidades já implementadas:
 - [x] Estrutura inicial do projeto
+- [X] Fontes e Cabeçalho do projeto
+- [ ] Criação de Componentes e divisão das responsabilidades
 
 Novas funcionalidades serão adicionadas em breve.
 
