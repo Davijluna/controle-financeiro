@@ -1,12 +1,13 @@
-// import React from 'react'
+import React from 'react'
 import * as C from "./style";
 
-const ResumeItem = ({title, Icon, value }) => {
+const ResumeItem = ({title, Icon, value}) => {
+
   return (
     <C.Container>
         <C.Header>
         <C.HeaderTitle>{title}</C.HeaderTitle>
-        <Icon></Icon>
+        {Icon && <Icon />}
         </C.Header>
         <C.Total>{value}</C.Total>
     </C.Container>

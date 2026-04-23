@@ -1,8 +1,6 @@
 // import React from 'react'
 import * as C from './style';
 import ResumeItem from '../ResumeItem';
-// import * as C from "./style";
-
 import {
   FaRegArrowAltCircleUp,
   FaRegArrowAltCircleDown,
@@ -16,7 +14,7 @@ const Resume = () => {
             <ResumeItem title="Saídas" Icon= {FaRegArrowAltCircleDown} value="1000"/>
             <ResumeItem title="Total" Icon= {FaDollarSign} value="1000"/>
         </C.Container>
-  )
-}
+  );
+};
 
 export default Resume;
