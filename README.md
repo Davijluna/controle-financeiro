@@ -84,7 +84,7 @@ Os dados são armazenados no **LocalStorage**, garantindo que não sejam perdido
 
 ## 📸 Preview
 
-(Adicione aqui uma imagem do projeto depois 🚀)
+<img src="./image/front_project.png">
 
 ---
 
@@ -108,13 +108,6 @@ Este projeto foi desenvolvido com foco em:
 - [ ] Autenticação de usuário
 - [ ] Gráficos financeiros
 
----
-
-## 🧑‍💻 Autor
-
-Desenvolvido por você 😄
-
----
 
 ## 📄 Licença
 
